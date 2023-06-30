@@ -6,7 +6,7 @@
 // [“1234”, “1567”, “-2”, “computer science”] → [“-2”]
 // [“Russia”, “Denmark”, “Kazan”] → []
 
-string [] array = new string [6] {"Кир","123","-1","<3//","1+1=2","-0,00001"};
+string [] array = new string [5] {"1","12","-1","<3","GeekBrains"};
 string [] array1 = new string [array.Length];
 
 void NewArray(string [] array, string [] array1)
@@ -21,11 +21,11 @@ void NewArray(string [] array, string [] array1)
         }
     }
 }
-void PrintArray(string [] array2)
+void PrintArray(string [] array1)
 {
-    for(int i = 0; i<array2.Length; i++)
+    for(int i = 0; i<array1.Length; i++)
     {
-        Console.Write(array2[i] + " , ");//из за запятой в ковычках в ответе выходят все числа, подскажите как сделать чтобы выводилось только нужные данные?
+        Console.Write(array1[i] + " , ");
     }
     Console.WriteLine();
 }
