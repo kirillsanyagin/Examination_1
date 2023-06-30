@@ -1,0 +1,15 @@
+C:\Users\Кирилл Санягин\OneDrive\Рабочий стол\Examination_1\bin\Debug\net7.0\Examination_1.exe
+C:\Users\Кирилл Санягин\OneDrive\Рабочий стол\Examination_1\bin\Debug\net7.0\Examination_1.deps.json
+C:\Users\Кирилл Санягин\OneDrive\Рабочий стол\Examination_1\bin\Debug\net7.0\Examination_1.runtimeconfig.json
+C:\Users\Кирилл Санягин\OneDrive\Рабочий стол\Examination_1\bin\Debug\net7.0\Examination_1.dll
+C:\Users\Кирилл Санягин\OneDrive\Рабочий стол\Examination_1\bin\Debug\net7.0\Examination_1.pdb
+C:\Users\Кирилл Санягин\OneDrive\Рабочий стол\Examination_1\obj\Debug\net7.0\Examination_1.csproj.AssemblyReference.cache
+C:\Users\Кирилл Санягин\OneDrive\Рабочий стол\Examination_1\obj\Debug\net7.0\Examination_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кирилл Санягин\OneDrive\Рабочий стол\Examination_1\obj\Debug\net7.0\Examination_1.AssemblyInfoInputs.cache
+C:\Users\Кирилл Санягин\OneDrive\Рабочий стол\Examination_1\obj\Debug\net7.0\Examination_1.AssemblyInfo.cs
+C:\Users\Кирилл Санягин\OneDrive\Рабочий стол\Examination_1\obj\Debug\net7.0\Examination_1.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл Санягин\OneDrive\Рабочий стол\Examination_1\obj\Debug\net7.0\Examination_1.dll
+C:\Users\Кирилл Санягин\OneDrive\Рабочий стол\Examination_1\obj\Debug\net7.0\refint\Examination_1.dll
+C:\Users\Кирилл Санягин\OneDrive\Рабочий стол\Examination_1\obj\Debug\net7.0\Examination_1.pdb
+C:\Users\Кирилл Санягин\OneDrive\Рабочий стол\Examination_1\obj\Debug\net7.0\Examination_1.genruntimeconfig.cache
+C:\Users\Кирилл Санягин\OneDrive\Рабочий стол\Examination_1\obj\Debug\net7.0\ref\Examination_1.dll
